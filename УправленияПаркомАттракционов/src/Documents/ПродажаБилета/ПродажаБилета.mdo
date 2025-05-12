@@ -148,6 +148,21 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
+  <attributes uuid="2c017c79-14ea-4928-8102-b7e056794ef2">
+    <name>Отвественный</name>
+    <synonym>
+      <key>ru</key>
+      <value>Отвественный</value>
+    </synonym>
+    <type>
+      <types>CatalogRef.Пользователи</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
   <forms uuid="7292d4f4-81d5-459e-b64c-06f5d525b494">
     <name>ФормаДокумента</name>
     <synonym>
